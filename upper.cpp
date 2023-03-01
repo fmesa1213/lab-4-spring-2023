@@ -12,6 +12,9 @@ using namespace std;
 int main()
 {
    int length;
+   int c;
+   int j;
+   
 
         cout << "Input side length: ";
         cin >> length;

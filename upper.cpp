@@ -28,6 +28,7 @@ cout << "Shape: " << endl;
                         cout << "*";
                 }
                 cout << endl;
+        }
           return 0;
   
 }

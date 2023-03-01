@@ -16,9 +16,9 @@ int main()
 int width;
 int height;
 
-cout << "Input width: ";
+cout << "Input width: " << endl;
 cin >> width;
-cout << "Input height: ";
+cout << "Input height: " << endl;
 cin >> height;
 
 for(int r = 0; r < height; r++) {

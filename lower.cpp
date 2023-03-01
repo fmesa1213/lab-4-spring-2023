@@ -13,7 +13,7 @@ int main()
 {
 
 int length;
-cout << “Input side length: " << endl;
+cout << "Input side length: " << endl;
 cin >> length;
   
 cout << "Shape: " << endl;
